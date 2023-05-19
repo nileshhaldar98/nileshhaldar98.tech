@@ -441,7 +441,9 @@ window.onload = function() {
     m( "h1" );
 };
 
-/*. nav js */
+
+
+
 const navbar = document.querySelector(".navbar");
 navbar.querySelector(".toggle").addEventListener("click", () => {
   navbar.classList.toggle("collapsed");
