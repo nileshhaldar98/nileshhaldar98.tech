@@ -78,6 +78,51 @@ h1 {
 .letter-15 {
   transition-delay: 3.2s;
 }
+.letter-16 {
+  transition-delay: 3.4s;
+}
+.letter-17 {
+  transition-delay: 3.6s;
+}
+.letter-18 {
+  transition-delay: 3.8s;
+}
+.letter-19 {
+  transition-delay: 4.0s;
+}
+.letter-20 {
+  transition-delay: 4.2s;
+}
+.letter-21 {
+  transition-delay: 4.4s;
+}
+.letter-22 {
+  transition-delay: 4.6s;
+}
+.letter-23 {
+  transition-delay: 4.8s;
+}
+.letter-24 {
+  transition-delay: 5.0s;
+}
+.letter-25 {
+  transition-delay: 5.2s;
+}
+.letter-26 {
+  transition-delay: 5.4s;
+}
+.letter-27 {
+  transition-delay: 5.6s;
+}
+.letter-28 {
+  transition-delay: 5.8s;
+}
+.letter-29 {
+  transition-delay: 6.0s;
+}
+.letter-30 {
+  transition-delay: 6.2s;
+}
 h1 {
   visibility: hidden;
   position: absolute;
