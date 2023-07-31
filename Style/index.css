@@ -3,23 +3,23 @@ body {
   background-color: #000
 }
 .container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100vh; /* Adjust as needed */
+
   color: #fff;
 }
 
-.centered-text {
-  text-align: center;
+.t-shirt-image{
+
+  align-items: center;
+  width: 200px;
+
 }
+
+
 
 /* Responsive Code */
 @media (max-width: 768px) {
   /* Adjust the breakpoint value as needed */
-  .container {
-    flex-direction: column;
-  }
+  
 }
 
 
@@ -44,6 +44,10 @@ ul {
   margin: 0;
 }
 .navbar {
+  position: sticky;
+  top: 0;
+}
+.navbar {
   background: #080808;
   color: #fff;
   padding: 15px;
@@ -51,6 +55,8 @@ ul {
   height: 65px;
   display: flex;
   align-items: center;
+
+
 }
 
 .navbar .logo {
